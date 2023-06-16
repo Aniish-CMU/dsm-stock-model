@@ -1,0 +1,3 @@
+This is a data file containing the sample data for the stock prices of those companies that can be queried through the application. 
+The data is sourced through the aplha vantage API. 
+The three files - AAPL.CSV, AMZN.csv and Meta.csv are representative of the data.
